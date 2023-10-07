@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<title>Pucha to maszyna fr</title>
+<meta name="description" content="pucha">
+<meta name="keywords" content="cyborg">
+</head>
+<body>
+Przysiegam Pucha Puszek 7min5 to cyborg, 
+na tej tajnej stronie internetowej pokaze dowody.
+
+<p style="color:black">Oto teoria: Pucha odpowiada i wysyla zawsze losowe rzeczy, 
+</p>
+<p style="color:black"> to z powodu algorytmu losujacego, pucha nie mysli samodzielnie, ma wgrane kilkanascie </p>
+opcji dialogowych ktore maszyna losuje. Codziennie opcje sie zmieniaja.
+
+<p style="color:black">Istnieje rowniez teoria o algorytmie rozmowy z niejakim Kiechem aka MlodymK aka Piratem aka Wsiurem.
+Pucha za kazdym razem postepuje wedlug naspetujacego schematu: </p>
+
+<p style="color:red">faza 1. zaczyna od zdania - "ooo. właśnie, a ty to co" - odrodzenie duszy majora suchodolskiego
+</p>
+
+<img src="unnamed.jpg" width="384" height="512">
+
+<p style="color:red">faza 2. jedna z opcji dialogowych, która wybiera maszyna losjaca
+<p style="color:red">a. gruby </p>
+<p style="color:red">b. zakola masz </p>
+<p style="color:red">c. co ty tak rzucasz? </p>
+<p style="color:red">d. nie zdales </p>
+<p>
+</p>
+<p style="color:red">faza 3. kiedy algorytm wyczerpie opcje dialogowe, nastepuje sportowe "spierdalaj" 
+i po tym slowie cyborg milczy az do restartu konwersacji </p>
+</body>
+</html>
